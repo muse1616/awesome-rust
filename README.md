@@ -15,6 +15,7 @@ https://medium.com/@otukof/678a463f968b?source=friends_link&sk=e2e89383cf8abcf35
 https://picklenerd.github.io/pngme_book/
 
 ## command line
-https://github.com/kyclark/command-line-rust
+* https://pan.baidu.com/s/1su2XTnLVywJOJHzefj_BPA?pwd=dufi#list/path=%2F&login_type=weixin
+* repo: https://github.com/kyclark/command-line-rust
 
  
